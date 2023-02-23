@@ -1,0 +1,5 @@
+lógica --> 1
+python --> 2
+linux --> 3
+github --> 4
+htm --> 5
